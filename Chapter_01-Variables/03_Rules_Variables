@@ -1,0 +1,9 @@
+The following rules apply to writing variable names in Python:
+
+1. Allowed Characters: Variable names can only contain alphanumeric characters (A-z, 0-9) and underscores (\_). 
+2. Starting Character: A variable name must start with a letter (A-z) or an underscore (\_). 
+It cannot start with a number. 
+3. Case-Sensitivity: Python variable names are case-sensitive. For example, myVar, myvar, and MYVAR are 
+considered three distinct variables.
+4. No Spaces: Spaces are not permitted within variable names. To separate words, 
+use underscores (e.g., my_variable).
